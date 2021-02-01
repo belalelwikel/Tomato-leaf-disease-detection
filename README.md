@@ -1,2 +1,5 @@
 # Tomato-leaf-disease-detection
 The tomato crop is an important staple in the market with high commercial value and is produced in large quantities. Diseases are detrimental to the plant's health which in turn affects its growth. To ensure minimal losses to the cultivated crop, it is crucial to supervise its growth. There are numerous types of tomato diseases that target the crop's leaf at an alarming rate. This paper adopts a slight variation of the convolutional neural network model to detect and identify diseases in tomato leaves. The main aim of the proposed work is to find a solution to the problem of tomato leaf disease detection using the simplest approach while making use of minimal computing resources to achieve results comparable to state of the art techniques. Neural network models employ automatic feature extraction to aid in the classification of the input image into respective disease classes. This proposed system has achieved an average accuracy of 98% indicating the feasibility of the neural network approach even under unfav
+
+# Dataset in kaggel:
+https://www.kaggle.com/kaustubhb999/tomatoleaf
